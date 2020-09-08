@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "janelas/garagem1"
+	"$translucent" "1"
+	"$decal" "1"
+	"%keywords" "decal,garage"
+}

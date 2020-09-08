@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "janelas/Janela1"
+	"$translucent" "1"
+	"$decal" "1"
+	"%keywords" "decal,janela,window"
+
+}

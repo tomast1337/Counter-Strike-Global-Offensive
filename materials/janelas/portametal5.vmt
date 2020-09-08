@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "janelas/portametal5"
+	"$translucent" "1"
+	"$decal" "1"
+	"%keywords" "decal,door,porta"
+}

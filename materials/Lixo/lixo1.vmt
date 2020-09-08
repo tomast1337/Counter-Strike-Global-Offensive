@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Lixo/lixo1"
+	"$normalmap" "Lixo/lixo1Normal"
+	"$surfaceprop" "metal"
+	"%keywords" "lixo,garbage,trash"
+}
